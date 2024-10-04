@@ -2,11 +2,14 @@
 
 Hello fellow developers and learners, 👋
 
-If you're looking to level up your JavaScript skills by diving into TypeScript, you're in the right place. TypeScript is a game-changer that brings static typing to JavaScript, making your code more predictable, scalable, and easier to debug. Whether you're a JavaScript pro or just getting started, learning TypeScript is a valuable step in your journey as a developer.
+If you're looking to level up your JavaScript skills by diving into TypeScript, you're in the right place. TypeScript is a game-changer that brings static typing to JavaScript, making your code more predictable, scalable, and easier to debug.
 
-### Why TypeScript? 🤔
+This tutorial follows the [official TypeScript documentation](https://www.typescriptlang.org/docs/), ensuring you receive accurate and up-to-date information. To enrich the content further, I've seamlessly integrated my own invaluable insights, enhancing the overall learning experience. For more detailed information, you can check out the [TypeScript documentation](https://www.typescriptlang.org/docs/).
 
-TypeScript builds on JavaScript by adding optional static types. This means you can catch errors early in development, write more readable code, and improve team collaboration by creating clear contracts within your codebase. As projects grow in complexity, TypeScript becomes an indispensable tool for maintaining code quality and avoiding runtime errors.
+Access to the "TypeScript Fundamentals" tutorial is available on my public GitHub repository at:  
+[TypeScript Fundamentals](https://github.com/GoranKukic/typescript-fundamentals)  
+Also, feel free to check my "JavaScript Fundamentals" tutorial on my public GitHub repository at:  
+[JavaScript Fundamentals](https://github.com/GoranKukic/javascript-fundamentals)
 
 ### What You'll Learn Here 📘
 
@@ -26,8 +29,6 @@ Each section will include easy-to-follow examples and practical tips to help you
 - **JavaScript developers**: Looking to transition to TypeScript to enhance code reliability.
 - **Beginner devs**: Who want to understand the advantages of typed systems.
 - **Professionals**: Preparing for interviews or improving project scalability and maintainability.
-
-TypeScript might seem like a steep learning curve at first, but with the right guidance, you'll soon discover how powerful it is for building robust applications.
 
 ### Let's Get Started 🚀
 
